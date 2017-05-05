@@ -1,4 +1,4 @@
-# ~~SnackbarIntDefIssue~~[DEPRECATED - Issue resolved in support library 25.0.0]
+# SnackbarIntDefIssue
 https://code.google.com/p/android/issues/detail?id=216372
 
 ---
