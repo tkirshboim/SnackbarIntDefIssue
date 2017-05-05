@@ -14,8 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         View container = findViewById(R.id.container);
 
-        createSnackbar(container, "Make Android support annotations great again!",
-                Snackbar.LENGTH_LONG).show();
+        createSnackbar(container, "Lint is my friend.", Snackbar.LENGTH_LONG).show();
     }
     @NonNull
     private Snackbar createSnackbar(View view, String message, @Snackbar.Duration int duration) {
